@@ -1,0 +1,27 @@
+## Конспект по DOM-событиям
+
+- [01-basics](./01-basics) - что вообще такое DOM-события
+- [02-addEventListener](./02-addEventListener) - как вешать обработчики
+- [03-event-object](./03-event-object) - объект Event
+- [04-target-currentTarget](./04-target-currentTarget) - target и currentTarget
+- [05-click](./05-click) - клик
+- [06-input](./06-input) - input
+- [07-change](./07-change) - change
+- [08-submit](./08-submit) - сабмит формы
+- [09-preventDefault](./09-preventDefault) - отмена дефолта
+- [10-stopPropagation](./10-stopPropagation) - остановка всплытия
+- [11-keydown](./11-keydown) - клавиатура
+- [12-focus-blur](./12-focus-blur) - фокус и потеря фокуса
+- [13-bubbling](./13-bubbling) - всплытие
+- [14-event-delegation](./14-event-delegation) - делегирование
+- [15-closest](./15-closest) - closest
+- [16-data-attributes](./16-data-attributes) - data-* атрибуты
+- [17-DOMContentLoaded](./17-DOMContentLoaded) - DOMContentLoaded
+- [18-debounce](./18-debounce) - debounce для input
+- [19-removeEventListener](./19-removeEventListener) - снятие обработчика
+- [20-async-await](./20-async-await) - async/await в обработчиках
+- [21-dynamic-elements](./21-dynamic-elements) - динамически созданные элементы
+- [22-form-validation](./22-form-validation) - валидация форм
+- [23-mouseenter-mouseleave](./23-mouseenter-mouseleave) - наведение мыши
+- [24-scroll](./24-scroll) - скролл
+- [25-this-arrow](./25-this-arrow) - this и стрелочные функции
