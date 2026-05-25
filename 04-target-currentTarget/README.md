@@ -1,7 +1,5 @@
 ## target и currentTarget
 
-Путаница между ними самая частая ошибка у новичков.
-
 target это где событие реально произошло. Если кликнули по span внутри button - target это span.
 
 currentTarget это где висит обработчик. Если обработчик повешен на button - currentTarget это button даже если кликнули по вложенному span.
